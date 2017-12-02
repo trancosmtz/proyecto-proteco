@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ap.Proteco</string>
+    <string name="facebook_app_id">317831222032415</string>
+    <string name="fb_login_protocol_scheme">fb317831222032415</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_settings">Settings</string>
+    <string name="link_text_auto"><b>Convocatoria:</b> http://www.proteco.mx/convocatoria </string>
+</resources>

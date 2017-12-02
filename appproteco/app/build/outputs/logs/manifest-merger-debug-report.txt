@@ -1,0 +1,276 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:2:1-74:12
+INJECTED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:2:1-74:12
+INJECTED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:2:1-74:12
+INJECTED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:2:1-74:12
+MERGED from [com.android.support:design:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/4eb5358f75adcf79f08f712622b5900a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.28.0.aar/dbf0a8ca9dfa306f38c28c58298723bd/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-login-4.28.0.aar/1a93dfbc1c38bd5b5c687fba99fb4165/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-share-4.28.0.aar/e256e603970b49cf3a3c315f079d0341/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-common-4.28.0.aar/faf982008c53fca8a4a88126fc6302ce/AndroidManifest.xml:21:1-36:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8c77122a43f0c85da66d6da0404df369/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/ccbef89d245ed190184930754b6c0abd/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/c509af13a94d70e48133556ace7fc42f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/valdr/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/270a147b793b0b9465d1969635ab4e96/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d60e5454b00b5cb3517afe11a87502df/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/5369514c1a74d6fee8419bc47dadeb2f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/9040114245bf15f16fa91870c29a44f6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0ebeebf7863ae2a632af0485e22fb2ca/AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.android:facebook-places:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-places-4.28.0.aar/4dde038f9f3a012110a83a82e2123002/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.28.0.aar/54ed396dc3f0f44a760811bffdcd2872/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.28.0.aar/33bbfa50bbc04312b4f0319dccdf88e2/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-core:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/8981c3b06ec6a7f05eff466a30188150/AndroidManifest.xml:21:1-45:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e325921bc5eec21349fffe8eaee3354b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/754c4e0c6b746b0b9189d9f037ee4ce9/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/e4ad23e50b1d3acf5e9f4389ba7fc493/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:customtabs:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/97a89ece11d976013a9b4b01451df594/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/e14205cbdcf9faf7994bde67a769728f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/d0ee71a5d4fa3c717ddb577ae94285d7/AndroidManifest.xml:17:1-28:12
+INJECTED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:2:1-74:12
+INJECTED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:2:1-74:12
+INJECTED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:2:1-74:12
+	package
+		ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml
+		INJECTED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml
+		ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:2:1-74:12
+		INJECTED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml
+		ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:2:1-74:12
+		INJECTED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:5:5-72:19
+MERGED from [com.android.support:design:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/4eb5358f75adcf79f08f712622b5900a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/4eb5358f75adcf79f08f712622b5900a/AndroidManifest.xml:29:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.28.0.aar/dbf0a8ca9dfa306f38c28c58298723bd/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.28.0.aar/dbf0a8ca9dfa306f38c28c58298723bd/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-login-4.28.0.aar/1a93dfbc1c38bd5b5c687fba99fb4165/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-login-4.28.0.aar/1a93dfbc1c38bd5b5c687fba99fb4165/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-share-4.28.0.aar/e256e603970b49cf3a3c315f079d0341/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-share-4.28.0.aar/e256e603970b49cf3a3c315f079d0341/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-common-4.28.0.aar/faf982008c53fca8a4a88126fc6302ce/AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-common:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-common-4.28.0.aar/faf982008c53fca8a4a88126fc6302ce/AndroidManifest.xml:28:5-34:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8c77122a43f0c85da66d6da0404df369/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8c77122a43f0c85da66d6da0404df369/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/ccbef89d245ed190184930754b6c0abd/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/ccbef89d245ed190184930754b6c0abd/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/c509af13a94d70e48133556ace7fc42f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/c509af13a94d70e48133556ace7fc42f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/valdr/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/270a147b793b0b9465d1969635ab4e96/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/valdr/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/270a147b793b0b9465d1969635ab4e96/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d60e5454b00b5cb3517afe11a87502df/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d60e5454b00b5cb3517afe11a87502df/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/5369514c1a74d6fee8419bc47dadeb2f/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/5369514c1a74d6fee8419bc47dadeb2f/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/9040114245bf15f16fa91870c29a44f6/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/9040114245bf15f16fa91870c29a44f6/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0ebeebf7863ae2a632af0485e22fb2ca/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0ebeebf7863ae2a632af0485e22fb2ca/AndroidManifest.xml:29:5-20
+MERGED from [com.facebook.android:facebook-places:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-places-4.28.0.aar/4dde038f9f3a012110a83a82e2123002/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-places-4.28.0.aar/4dde038f9f3a012110a83a82e2123002/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.28.0.aar/54ed396dc3f0f44a760811bffdcd2872/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.28.0.aar/54ed396dc3f0f44a760811bffdcd2872/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.28.0.aar/33bbfa50bbc04312b4f0319dccdf88e2/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.28.0.aar/33bbfa50bbc04312b4f0319dccdf88e2/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/8981c3b06ec6a7f05eff466a30188150/AndroidManifest.xml:28:5-43:19
+MERGED from [com.facebook.android:facebook-core:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/8981c3b06ec6a7f05eff466a30188150/AndroidManifest.xml:28:5-43:19
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e325921bc5eec21349fffe8eaee3354b/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e325921bc5eec21349fffe8eaee3354b/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/e4ad23e50b1d3acf5e9f4389ba7fc493/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/e4ad23e50b1d3acf5e9f4389ba7fc493/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:customtabs:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/97a89ece11d976013a9b4b01451df594/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:customtabs:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/97a89ece11d976013a9b4b01451df594/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/e14205cbdcf9faf7994bde67a769728f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/e14205cbdcf9faf7994bde67a769728f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/d0ee71a5d4fa3c717ddb577ae94285d7/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/d0ee71a5d4fa3c717ddb577ae94285d7/AndroidManifest.xml:26:5-20
+	android:supportsRtl
+		ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.cesos.approteco.MainActivity
+ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.example.cesos.approteco.Contactanos
+ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:22:9-31:20
+	android:label
+		ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:24:13-45
+	android:theme
+		ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:23:13-40
+activity#com.example.cesos.approteco.IniciarSesion
+ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:32:9-41:20
+	android:label
+		ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:34:13-45
+	android:theme
+		ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:35:13-56
+	android:name
+		ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:33:13-42
+activity#com.example.cesos.approteco.Siguenos
+ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:42:9-51:20
+	android:label
+		ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:44:13-45
+	android:theme
+		ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:45:13-56
+	android:name
+		ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:43:13-37
+activity#com.example.cesos.approteco.Unetenos
+ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:52:9-61:20
+	android:label
+		ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:54:13-45
+	android:theme
+		ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:55:13-56
+	android:name
+		ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:53:13-37
+activity#com.example.cesos.approteco.Cursos
+ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:62:9-71:20
+	android:label
+		ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:64:13-45
+	android:theme
+		ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:65:13-56
+	android:name
+		ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml:63:13-35
+uses-sdk
+INJECTED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml
+INJECTED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/4eb5358f75adcf79f08f712622b5900a/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/4eb5358f75adcf79f08f712622b5900a/AndroidManifest.xml:21:5-23:62
+MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.28.0.aar/dbf0a8ca9dfa306f38c28c58298723bd/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.28.0.aar/dbf0a8ca9dfa306f38c28c58298723bd/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-login-4.28.0.aar/1a93dfbc1c38bd5b5c687fba99fb4165/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-login-4.28.0.aar/1a93dfbc1c38bd5b5c687fba99fb4165/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-share-4.28.0.aar/e256e603970b49cf3a3c315f079d0341/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-share-4.28.0.aar/e256e603970b49cf3a3c315f079d0341/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-common-4.28.0.aar/faf982008c53fca8a4a88126fc6302ce/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-common-4.28.0.aar/faf982008c53fca8a4a88126fc6302ce/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8c77122a43f0c85da66d6da0404df369/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8c77122a43f0c85da66d6da0404df369/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/ccbef89d245ed190184930754b6c0abd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/ccbef89d245ed190184930754b6c0abd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/c509af13a94d70e48133556ace7fc42f/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/c509af13a94d70e48133556ace7fc42f/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/valdr/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/270a147b793b0b9465d1969635ab4e96/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/valdr/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/270a147b793b0b9465d1969635ab4e96/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d60e5454b00b5cb3517afe11a87502df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d60e5454b00b5cb3517afe11a87502df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/5369514c1a74d6fee8419bc47dadeb2f/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/5369514c1a74d6fee8419bc47dadeb2f/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/9040114245bf15f16fa91870c29a44f6/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/9040114245bf15f16fa91870c29a44f6/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0ebeebf7863ae2a632af0485e22fb2ca/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0ebeebf7863ae2a632af0485e22fb2ca/AndroidManifest.xml:21:5-23:63
+MERGED from [com.facebook.android:facebook-places:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-places-4.28.0.aar/4dde038f9f3a012110a83a82e2123002/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-places-4.28.0.aar/4dde038f9f3a012110a83a82e2123002/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.28.0.aar/54ed396dc3f0f44a760811bffdcd2872/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.28.0.aar/54ed396dc3f0f44a760811bffdcd2872/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.28.0.aar/33bbfa50bbc04312b4f0319dccdf88e2/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.28.0.aar/33bbfa50bbc04312b4f0319dccdf88e2/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/8981c3b06ec6a7f05eff466a30188150/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/8981c3b06ec6a7f05eff466a30188150/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e325921bc5eec21349fffe8eaee3354b/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e325921bc5eec21349fffe8eaee3354b/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/754c4e0c6b746b0b9189d9f037ee4ce9/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/754c4e0c6b746b0b9189d9f037ee4ce9/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/e4ad23e50b1d3acf5e9f4389ba7fc493/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/e4ad23e50b1d3acf5e9f4389ba7fc493/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:customtabs:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/97a89ece11d976013a9b4b01451df594/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/97a89ece11d976013a9b4b01451df594/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/e14205cbdcf9faf7994bde67a769728f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/e14205cbdcf9faf7994bde67a769728f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/d0ee71a5d4fa3c717ddb577ae94285d7/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/d0ee71a5d4fa3c717ddb577ae94285d7/AndroidManifest.xml:20:5-43
+INJECTED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml
+INJECTED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/4eb5358f75adcf79f08f712622b5900a/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml
+		ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml
+		INJECTED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml
+		ADDED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml
+		INJECTED from /home/valdr/AndroidStudioProjects/Ap.Proteco/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/4eb5358f75adcf79f08f712622b5900a/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8c77122a43f0c85da66d6da0404df369/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8c77122a43f0c85da66d6da0404df369/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/ccbef89d245ed190184930754b6c0abd/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/ccbef89d245ed190184930754b6c0abd/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/c509af13a94d70e48133556ace7fc42f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/c509af13a94d70e48133556ace7fc42f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d60e5454b00b5cb3517afe11a87502df/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d60e5454b00b5cb3517afe11a87502df/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/5369514c1a74d6fee8419bc47dadeb2f/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/5369514c1a74d6fee8419bc47dadeb2f/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/9040114245bf15f16fa91870c29a44f6/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/9040114245bf15f16fa91870c29a44f6/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0ebeebf7863ae2a632af0485e22fb2ca/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0ebeebf7863ae2a632af0485e22fb2ca/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e325921bc5eec21349fffe8eaee3354b/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e325921bc5eec21349fffe8eaee3354b/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/754c4e0c6b746b0b9189d9f037ee4ce9/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/754c4e0c6b746b0b9189d9f037ee4ce9/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/e4ad23e50b1d3acf5e9f4389ba7fc493/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/e4ad23e50b1d3acf5e9f4389ba7fc493/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:customtabs:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/97a89ece11d976013a9b4b01451df594/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:customtabs:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/97a89ece11d976013a9b4b01451df594/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/e14205cbdcf9faf7994bde67a769728f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/e14205cbdcf9faf7994bde67a769728f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/d0ee71a5d4fa3c717ddb577ae94285d7/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/d0ee71a5d4fa3c717ddb577ae94285d7/AndroidManifest.xml:22:5-24:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/4eb5358f75adcf79f08f712622b5900a/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /home/valdr/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/4eb5358f75adcf79f08f712622b5900a/AndroidManifest.xml:26:9-47
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-common-4.28.0.aar/faf982008c53fca8a4a88126fc6302ce/AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-common-4.28.0.aar/faf982008c53fca8a4a88126fc6302ce/AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-common-4.28.0.aar/faf982008c53fca8a4a88126fc6302ce/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-common-4.28.0.aar/faf982008c53fca8a4a88126fc6302ce/AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-common-4.28.0.aar/faf982008c53fca8a4a88126fc6302ce/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-common-4.28.0.aar/faf982008c53fca8a4a88126fc6302ce/AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/8981c3b06ec6a7f05eff466a30188150/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/8981c3b06ec6a7f05eff466a30188150/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/8981c3b06ec6a7f05eff466a30188150/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.28.0] /home/valdr/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/8981c3b06ec6a7f05eff466a30188150/AndroidManifest.xml:40:13-70
